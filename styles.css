@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Gill Sans nova';
+    font-size: 50px;
+}
+ 
+
+body{
+    background-color: lightgoldenrodyellow;
+    display: flex;
+ flex-direction: row;
+ margin: 10px auto;
+ width: 800px;
+}
+img{
+    padding: 20px;
+    max-width: 300px;
+    max-height: 300px;
+}
+p{
+    font-family: 'Gill Sans nova';
+}
+li{
+    font-family: 'Gill Sans nova';
+}
+div{
+    background-color:lightblue;
+    padding: 10px;
+}
